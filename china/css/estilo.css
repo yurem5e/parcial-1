@@ -1,0 +1,14 @@
+@property --hue{
+    syntax: "<number>";
+    inherits: true;
+    initial-value: 0;
+}
+@property --rotate{
+    syntax: "<number>";
+    inherits: true;
+    initial-value: 0;
+}
+@property --bg-y{
+    syntax: "<number>";
+    initial-value: 0;
+}
